@@ -1,0 +1,15 @@
+dev-lang/python sqlite
+app-portage/layman sync-plugin-portage
+net-wireless/wpa_supplicant -qt5
+app-i18n/fcitx gtk3 opencc
+app-admin/keepassxc yubikey autotype network browser
+net-misc/remmina ssh rdp vnc
+app-editors/vim lua luajit perl ruby terminal
+app-office/libreoffice java
+
+# MEGA
+net-misc/meganz-sdk libuv qt
+
+# Chromium
+www-client/chromium widevine
+net-libs/nodejs inspector
