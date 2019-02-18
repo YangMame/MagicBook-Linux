@@ -6,6 +6,7 @@ app-admin/keepassxc yubikey autotype network browser
 net-misc/remmina ssh rdp vnc
 app-editors/vim lua luajit perl ruby terminal
 app-office/libreoffice java
+sys-kernel/gentoo-sources symlink
 
 # MEGA
 net-misc/meganz-sdk libuv qt
