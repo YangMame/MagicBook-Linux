@@ -1,4 +1,4 @@
-# MagicBook-Linux
+# MagicBook-Linux (sold)
 Dotfiles for Huawei's MagicBook
 
 ## What works
